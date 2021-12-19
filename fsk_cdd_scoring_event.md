@@ -28,6 +28,6 @@ Customer risk ranking scoring event information.
 | **INVESTIGATION_SUBCATEGORY_CD** | A code corresponding to the investigation subcategory.                                                                                                                | VARCHAR2(32)       | Null                 | No   | No   |
 | **INVESTIGATION_RK**             | The surrogate key of the investigation object in ECM. The object can be incident, or case, depending on the content of investigation_action_code.                     | NUMBER(12)         | Null                 | No   | No   |
 | **INVESTIGATION_STATUS_CD**      | The status code of the investigation object.                                                                                                                          | VARCHAR2(10)       | Null                 | No   | No   |
-| **INVESTIGATION_OBJECT_CODE**    | The ECM object type of the CDD investigation . ‘C’ for Case, ‘I’ for incident, and ‘P’ for party.                                                                     | CHAR(1)            | Null                 | No   | No   |
+| **INVESTIGATION_OBJECT_CODE**    | The ECM object type of the CDD investigation . 'C' for Case, 'I' for incident, and 'P' for party.                                                                     | CHAR(1)            | Null                 | No   | No   |
 
 [Back to index](./index.md)
