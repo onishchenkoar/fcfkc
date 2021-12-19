@@ -2,7 +2,7 @@
 
 ---
 
-Via the UI, users can request to be reminded to review an alert after a certain number of days.  This table stores
+Via the UI, users can request to be reminded to review an alert after a certain number of days.  This table stores those requests.  A batch job reviews this table daily and generates reminder e-mails as necessary.
 
 [Back to index](./index.md)
 
