@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   lov_type_name
+Generic lookup table used throughout the AML application.
 
 [Back to index](./index.md)
 

@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   alert_id
+For account-based alerts, details of other accounts with similar transaction profiles.
 
 [Back to index](./index.md)
 

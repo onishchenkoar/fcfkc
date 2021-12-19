@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   list_element_id
+List element information.
 
 [Back to index](./index.md)
 

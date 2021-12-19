@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   stored_procedure_name
+Contains start and end time for each Teradata scenario execution.
 
 [Back to index](./index.md)
 

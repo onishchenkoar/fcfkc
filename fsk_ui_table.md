@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   table_ui_name
+Describes table/view that can be displayed using the UI metadata driven screens.
 
 [Back to index](./index.md)
 

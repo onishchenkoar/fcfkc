@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   cdd_rule_group_id
+Definitions for Customer Due Diligence Rule Groups
 
 [Back to index](./index.md)
 

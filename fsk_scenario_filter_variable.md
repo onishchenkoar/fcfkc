@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   variable_name
+The definition of the variables that are calculated by filters.
 
 [Back to index](./index.md)
 

@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   risk_assessment_id
+Details of a potentially suspicious entity identified as a result of scenarios and risk factors triggering.
 
 [Back to index](./index.md)
 

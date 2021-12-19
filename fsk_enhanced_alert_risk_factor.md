@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   column_name
+Stores the value of the additional risk factor columns from FSK_SCENARIO_ALERT_COLUMN for a generated alert.
 
 [Back to index](./index.md)
 

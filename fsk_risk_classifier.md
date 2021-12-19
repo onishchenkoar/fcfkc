@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   risk_classifier_id
+The classifiers for risk assessments.
 
 [Back to index](./index.md)
 

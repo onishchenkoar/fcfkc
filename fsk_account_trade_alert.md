@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   alert_id
+A record of brokerage trading transactions.  e.g. buying and selling equities.
 
 [Back to index](./index.md)
 

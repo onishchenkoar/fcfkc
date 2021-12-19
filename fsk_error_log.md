@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   stored_procedure_name
+Contains error messages returned by Teradata stored procedure scenarios.
 
 [Back to index](./index.md)
 

@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   header_id
+Describes the data elements used in this header.
 
 [Back to index](./index.md)
 

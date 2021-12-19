@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   cdd_rule_id
+The definitions for CDD rules.
 
 [Back to index](./index.md)
 

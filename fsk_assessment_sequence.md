@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   SEGMENT_ID
+Used to generate unique identifiers for risk assessment tables.
 
 [Back to index](./index.md)
 

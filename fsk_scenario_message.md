@@ -2,7 +2,7 @@
 
 ---
 
-text to ensure that scenario message output is in the correct language. This table is loaded from the
+This table contains the translated text for Teradata stored procedure messages. The stored procedures use the
 
 [Back to index](./index.md)
 

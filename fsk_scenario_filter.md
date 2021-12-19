@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   filter_id
+The scenario filter definitions.
 
 [Back to index](./index.md)
 

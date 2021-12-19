@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   party_key
+Scratch table used to improve performance.
 
 [Back to index](./index.md)
 

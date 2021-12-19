@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   risk_classifier_category_id
+Allows user to create groups of related categories.
 
 [Back to index](./index.md)
 

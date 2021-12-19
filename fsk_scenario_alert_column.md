@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   scenario_id
+Stores additional columns for a scenario or risk factor when an alert is output.
 
 [Back to index](./index.md)
 

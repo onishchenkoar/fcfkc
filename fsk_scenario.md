@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   scenario_id
+A set of logic and parameters used to identify suspicious financial activity.
 
 [Back to index](./index.md)
 

@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   job_calendar_id
+Table used to determine which days are valid run days for scenario processing.
 
 [Back to index](./index.md)
 

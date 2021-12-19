@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   scd2_key
+Configurable slowly changing dimension values.
 
 [Back to index](./index.md)
 

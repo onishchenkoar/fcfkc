@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   event_id
+Details of all actions taken on the alert.
 
 [Back to index](./index.md)
 

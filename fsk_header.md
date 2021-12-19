@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   header_id
+Describes the properties of the header used by the scenarios.
 
 [Back to index](./index.md)
 

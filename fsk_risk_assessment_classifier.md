@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   risk_assessment_id
+Bridge table between RISK_CLASSIFIER and RISK_ASSESSMENT.
 
 [Back to index](./index.md)
 

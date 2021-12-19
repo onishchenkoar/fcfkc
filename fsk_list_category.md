@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   list_category_id
+Allows grouping of risk lists into categories and holds information about the categories.
 
 [Back to index](./index.md)
 

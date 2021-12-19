@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   alert_id
+Stores data related to near neighbor party functionality.
 
 [Back to index](./index.md)
 

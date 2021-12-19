@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   parameter_number
+The parameters for messages that are saved with alerts.
 
 [Back to index](./index.md)
 

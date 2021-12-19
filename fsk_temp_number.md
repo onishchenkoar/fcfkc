@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   primary_entity_number
+Temporary table used to improve performance.
 
 [Back to index](./index.md)
 

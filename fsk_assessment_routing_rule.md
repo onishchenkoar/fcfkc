@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   routing_rule_id
+A set of constraints forming a rule to govern the initial routing of an alert.
 
 [Back to index](./index.md)
 

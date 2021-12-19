@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   scenario_message_name
+Alert message string variable table seeded by calling stored proc
 
 [Back to index](./index.md)
 

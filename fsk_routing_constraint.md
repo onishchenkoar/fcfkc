@@ -2,7 +2,7 @@
 
 ---
 
-700.
+A specific constraint within a rule used to determine initial routing of an alert.  e.g. money_laundering_risk_score >
 
 [Back to index](./index.md)
 

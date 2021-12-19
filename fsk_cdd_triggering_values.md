@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   cdd_triggering_value_key
+CRR triggering value information.
 
 [Back to index](./index.md)
 

@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   alert_id
+Stores the value of the additional scenario columns from FSK_SCENARIO_ALERT_COLUMN for a generated alert.
 
 [Back to index](./index.md)
 

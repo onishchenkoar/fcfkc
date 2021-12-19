@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   routing_group_id
+A collection of user-defined routing rules that determine how an alert should initially be routed.
 
 [Back to index](./index.md)
 

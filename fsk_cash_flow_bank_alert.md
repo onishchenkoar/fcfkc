@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   alert_id
+A record of which banks play a role on a given cash flow transaction.  Roles include REMITTER and BENEFICIARY.
 
 [Back to index](./index.md)
 

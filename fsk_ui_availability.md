@@ -2,7 +2,7 @@
 
 ---
 
-application.
+Used to indicate if the user interface is available - meaning the batch run has finished and it is now safe to use the
 
 [Back to index](./index.md)
 

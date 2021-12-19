@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   list_id
+Describes a list. Each row maps to a column in fsc_classifier_fact.
 
 [Back to index](./index.md)
 

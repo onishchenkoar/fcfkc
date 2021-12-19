@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   group_ui_name
+Describes sections of screens where various columns should be displayed.
 
 [Back to index](./index.md)
 

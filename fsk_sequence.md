@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   segment_id
+Used to generate unique identifiers for various tables.
 
 [Back to index](./index.md)
 

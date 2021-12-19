@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   segment_id
+Table to store temporary values for optimization of queries.
 
 [Back to index](./index.md)
 

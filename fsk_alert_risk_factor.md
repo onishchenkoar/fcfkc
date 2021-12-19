@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   entity_number
+Details of risk factors influencing the score for this alert.
 
 [Back to index](./index.md)
 

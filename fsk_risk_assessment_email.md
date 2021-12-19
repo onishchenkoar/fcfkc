@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   email_id
+Details of any e-mails sent regarding the alert.
 
 [Back to index](./index.md)
 

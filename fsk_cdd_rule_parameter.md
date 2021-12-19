@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   cdd_rule_version_no
+Definitions for Customer Due Diligence Rule Parameters
 
 [Back to index](./index.md)
 

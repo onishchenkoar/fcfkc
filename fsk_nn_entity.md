@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   primary_entity_number
+Stores data related to near neighbor entity  functionality.
 
 [Back to index](./index.md)
 

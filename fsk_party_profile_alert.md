@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   alert_id
+A monthly snapshot of a party's transactional activity.
 
 [Back to index](./index.md)
 

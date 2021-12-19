@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   alert_id
+Replicated table from Core
 
 [Back to index](./index.md)
 

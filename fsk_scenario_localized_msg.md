@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   scenario_id
+Stores the message in the language of the locale.
 
 [Back to index](./index.md)
 

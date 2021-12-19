@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   primary_entity_number
+Stores customer due diligence entity information.
 
 [Back to index](./index.md)
 

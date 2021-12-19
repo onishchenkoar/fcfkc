@@ -2,7 +2,7 @@
 
 ---
 
-Attribute Name :   alert_id
+Replication scratch table used to improve replication performance.
 
 [Back to index](./index.md)
 
