@@ -8,7 +8,7 @@ A set of constraints forming a rule to govern the initial routing of an alert.
 
 | Column Name                     | Column Definition                                                                            | Column Data Type   | Column Null Option   | PK   | FK   |
 |:--------------------------------|:---------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|
-| **ROUTING_RULE_ID**             | Unique identifier within routing_group_id to identify a routing rule.                        | NUMBER(12)         | Not Null             | Yes  | No   |
+| **ROUTING_RULE_ID**             | Unique identifier within **ROUTING_GROUP_ID** to identify a routing rule.                        | NUMBER(12)         | Not Null             | Yes  | No   |
 | **SEGMENT_ID**                  | Multibank configurations use this column to indicate which bank the record belongs to.       | VARCHAR2(128)      | Not Null             | No   | Yes  |
 | **LIST_ID**                     | System generated synthetic/surrogate key that uniquely identifies a risk list.               | NUMBER(12)         | Null                 | No   | Yes  |
 | **RISK_ASSESSMENT_COLUMN_NAME** | Column in the fsk_risk_assessment table which contains the value that this rule is based on. | VARCHAR2(30)       | Not Null             | No   | No   |
