@@ -10,7 +10,7 @@ A monthly snapshot of a party's transactional activity.
 |:------------------------------|:----------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|
 | **ALERT_ID**                  | System generated synthetic/surrogate key that uniquely identifies an alert.                                     | NUMBER(12)         | Not Null             | Yes  | No   |
 | **MONTH_KEY**                 | Meaningful surrogate key of format yyyymm.                                                                      | NUMBER(6,0)        | Not Null             | Yes  | No   |
-| **PARTY_NUMBER**              | Source system's customer identifier..                                                                           | VARCHAR2(50)       | Not Null             | Yes  | No   |
+| **PARTY_NUMBER**              | Source system's customer identifier.                                                                           | VARCHAR2(50)       | Not Null             | Yes  | No   |
 | **SEGMENT_ID**                | Multibank configurations use this column to indicate which bank the record belongs to.                          | VARCHAR2(128)      | Not Null             | Yes  | No   |
 | **AGGREGATE_ASSETS_AMOUNT**   | Total assets across all accounts.  Only includes assets, does not include loan amounts.                         | NUMBER(18,5)       | Null                 | No   | No   |
 | **TRANSACTIONS_COUNT**        | Total number of transactions of accounts associated with this party during the profile period.                  | NUMBER(10,0)       | Null                 | No   | No   |
