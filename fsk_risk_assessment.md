@@ -10,7 +10,7 @@ Details of a potentially suspicious entity identified as a result of scenarios a
 |:---------------------------------|:----------------------------------------------------------------------------------------------------------------|:-------------------|:---------------------|:-----|:-----|
 | **RISK_ASSESSMENT_ID**           | System generated synthetic/surrogate key that uniquely identifies a risk assessment record.                     | NUMBER(12)         | Not Null             | Yes  | No   |
 | **SEGMENT_ID**                   | Multibank configurations use this column to indicate which bank the record belongs to.                          | VARCHAR2(128)      | Not Null             | Yes  | No   |
-| **RISK_ASSESSMENT_STATUS_CODE**  | Status: Active (ACT), Closed(CLS), Checked Out (OUT)                                                            | CHAR(3)            | Not Null             | No   | No   |
+| **RISK_ASSESSMENT_STATUS_CODE**  | Status: Active (ACT), Closed (CLS), Checked Out (OUT)                                                            | CHAR(3)            | Not Null             | No   | No   |
 | **RISK_CLASSIFICATION**          | The risk_classification that the party had prior to this assessment.                                            | NUMBER(1)          | Null                 | No   | No   |
 | **PROPOSED_RISK_CLASSIFICATION** | The proposed risk classification for the party.                                                                 | NUMBER(1)          | Null                 | No   | No   |
 | **PARTY_NUMBER**                 | Natural key of primary entity (party, account, hhld) associated with the risk assessment record.                | VARCHAR2(50)       | Not Null             | No   | No   |
