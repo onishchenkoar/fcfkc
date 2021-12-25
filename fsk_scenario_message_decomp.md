@@ -2,7 +2,7 @@
 
 ---
 
-Used in AlertStringBuild to decompose message, put variable values in place of pound sign parameters, and
+Used in AlertStringBuild to decompose message, put variable values in place of pound sign parameters, and recompose alert message string.
 
 [Back to index](./index.md)
 
