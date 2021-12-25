@@ -22,6 +22,6 @@ The definitions for CDD rules.
 | **CDD_RULE_TYPE_CODE**      | The rule type code, for example: attribute rule, aggregation, category aggregation.                       | VARCHAR2(32)       | Not Null             | No   | No   |
 | **CDD_RULE_SAVE_ID_FLG**    | 1 if the rule id has to be save in the output data set                                                    | CHAR(1)            | Null                 | No   | No   |
 | **CDD_RULE_ORDER_IN_GROUP** | execution order of the rule in the rule group                                                             | NUMBER(12)         | Not Null             | No   | No   |
-| **CDD_RULE_GROUP_ID**       | System generated synthetic/surrogate key that uniquely identifies a row in the  FSK_CDD_RULE_GROUP table. | VARCHAR2(32)       | Null                 | No   | Yes  |
+| **CDD_RULE_GROUP_ID**       | System generated synthetic/surrogate key that uniquely identifies a row in the  [FSK_CDD_RULE_GROUP](https://onishchenkoar.github.io/fcfkc/fsk_cdd_rule_group) table. | VARCHAR2(32)       | Null                 | No   | Yes  |
 
 [Back to index](./index.md)
